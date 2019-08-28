@@ -5,7 +5,7 @@
 <br />
 <br />
 [네이버 한글 로마자 변경 API](https://developers.naver.com/products/roman/)를 사용하시는 것을 권장드립니다. (데이터 전송량이 적습니다. 대신 사용량 제한 있음.)<br />
-이 소스코드는 웹페이지를 크롤링 하는 방식으로 만들어졌습니다. (사용량의 제한이 없음)
+이 소스코드는 [웹페이지](https://dict.naver.com/name-to-roman/translation/)를 크롤링 하는 방식으로 만들어졌습니다. (사용량의 제한이 없음)
 
 ## Dependency
 
